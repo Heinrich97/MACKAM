@@ -1,0 +1,13 @@
+Main:
+eslint
+mongoose.
+env
+babelrc
+
+Frontend:
+live-servre
+webpack
+style-loader
+file loader-loader
+
+Backend
