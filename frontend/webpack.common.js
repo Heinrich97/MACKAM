@@ -9,13 +9,6 @@ module.exports = {
       template: "index.html",
     }),
   ],
-  output: {
-   filename: 'index.bundle.js',
-   publicPath: '/'
-  },
-  devServer: {
-    historyApiFallback: true,
-  },
   module: {
     rules: [
       {
