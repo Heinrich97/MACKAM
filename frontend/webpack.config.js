@@ -9,7 +9,6 @@ module.exports = {
       template: "index.html",
     }),
   ],
-  mode: 'development',
   module: {
     rules: [
       {
